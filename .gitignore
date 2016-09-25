@@ -1,0 +1,6 @@
+*.class
+*.classpath
+/bin/*
+.project
+Modul8r.launch
+.settings
